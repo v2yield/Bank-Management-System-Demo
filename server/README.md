@@ -1,0 +1,1 @@
+**Use  'bankdata.sql'  to create a database**
